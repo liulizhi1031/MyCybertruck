@@ -1,2 +1,2 @@
 # MyCybertruck
-My Cybertruck RC
+Cybertruck RC
