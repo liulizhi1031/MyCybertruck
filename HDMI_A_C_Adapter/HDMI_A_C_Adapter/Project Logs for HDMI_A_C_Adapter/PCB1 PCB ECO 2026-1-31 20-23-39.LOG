@@ -1,0 +1,20 @@
+Change Net Name : Old Net Name=NetJ1_1 New Net Name=D2+
+Change Net Name : Old Net Name=NetJ1_2 New Net Name=D2S
+Change Net Name : Old Net Name=NetJ1_3 New Net Name=D2-
+Change Net Name : Old Net Name=NetJ1_4 New Net Name=D1+
+Change Net Name : Old Net Name=NetJ1_5 New Net Name=D1S
+Change Net Name : Old Net Name=NetJ1_6 New Net Name=D1-
+Change Net Name : Old Net Name=NetJ1_7 New Net Name=D0+
+Change Net Name : Old Net Name=NetJ1_8 New Net Name=D0S
+Change Net Name : Old Net Name=NetJ1_9 New Net Name=D0-
+Change Net Name : Old Net Name=NetJ1_10 New Net Name=CLK+
+Change Net Name : Old Net Name=NetJ1_11 New Net Name=CLKS
+Change Net Name : Old Net Name=NetJ1_12 New Net Name=CLK-
+Change Net Name : Old Net Name=NetJ1_13 New Net Name=CEC
+Change Net Name : Old Net Name=NetJ1_15 New Net Name=SCL
+Change Net Name : Old Net Name=NetJ1_16 New Net Name=SDA
+Change Net Name : Old Net Name=NetJ1_17 New Net Name=CEC_GND
+Change Net Name : Old Net Name=NetJ1_18 New Net Name=5V
+Change Net Name : Old Net Name=NetJ1_19 New Net Name=HOT_PLUG
+Change Net Name : Old Net Name=NetJ1_20 New Net Name=GND
+Added Member To Class: ClassName=SCH1 Member=Component J1 HDMI_A
